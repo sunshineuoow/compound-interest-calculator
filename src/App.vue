@@ -18,7 +18,7 @@ page {
 .container {
   position: relative;
   height: 100%;
-  padding: 200rpx 0;
+  /* padding: 200rpx 0; */
   box-sizing: border-box;
   background-color: #f5f5f5;
 }
